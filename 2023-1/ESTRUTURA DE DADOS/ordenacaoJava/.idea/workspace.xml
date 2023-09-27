@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9f7f685-5c56-40e8-a47e-e7fb8eee1442" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AP2_ListaDupEncadEOrdenacao/AP2_ListaDupEncadEOrdenacao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/TestandoORM/Data/Context/MyContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/TestandoORM/Data/Context/MyContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/TestandoORM/Domain/Entities/Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/TestandoORM/Domain/Entities/Person.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/TestandoORM/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/TestandoORM/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/TestandoORM/TestandoORM.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/TestandoORM/TestandoORM.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/TestandoORM/obj/Debug/net7.0/TestandoORM.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/TestandoORM/obj/Debug/net7.0/TestandoORM.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/TestandoORM/obj/Debug/net7.0/TestandoORM.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/TestandoORM/obj/Debug/net7.0/TestandoORM.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/TestandoORM/obj/Debug/net7.0/TestandoORM.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/TestandoORM/obj/Debug/net7.0/TestandoORM.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/TestandoORM/obj/Debug/net7.0/TestandoORM.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/TestandoORM/obj/Debug/net7.0/TestandoORM.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/TestandoORM/obj/Debug/net7.0/TestandoORM.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/TestandoORM/obj/Debug/net7.0/TestandoORM.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/TestandoORM/obj/TestandoORM.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/TestandoORM/obj/TestandoORM.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/TestandoORM/obj/TestandoORM.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/TestandoORM/obj/TestandoORM.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/TestandoORM/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/TestandoORM/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/TestandoORM/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/TestandoORM/obj/project.nuget.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PZnKTmF5ekx09Xqm4iPzXXHGwk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/arthu/Documents/ULBRA/2023-1/ESTRUTURA DE DADOS/ordenacaoJava",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ordenacaoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9f7f685-5c56-40e8-a47e-e7fb8eee1442" name="Changes" comment="" />
+      <created>1683673411971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683673411971</updated>
+      <workItem from="1683673413646" duration="3240000" />
+      <workItem from="1683677196056" duration="2112000" />
+      <workItem from="1684274832490" duration="3803000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

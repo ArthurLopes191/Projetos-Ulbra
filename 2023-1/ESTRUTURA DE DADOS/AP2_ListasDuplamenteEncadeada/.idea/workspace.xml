@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed4d9179-7309-44ec-af2f-f758b924688e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AP2_ListaDupEncadEOrdenacao/AP2_ListaDupEncadEOrdenacao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/TestandoORM/Data/Context/MyContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/TestandoORM/Data/Context/MyContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/TestandoORM/Domain/Entities/Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/TestandoORM/Domain/Entities/Person.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/TestandoORM/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/TestandoORM/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/TestandoORM/TestandoORM.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/TestandoORM/TestandoORM.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/TestandoORM/obj/Debug/net7.0/TestandoORM.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/TestandoORM/obj/Debug/net7.0/TestandoORM.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/TestandoORM/obj/Debug/net7.0/TestandoORM.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/TestandoORM/obj/Debug/net7.0/TestandoORM.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/TestandoORM/obj/Debug/net7.0/TestandoORM.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/TestandoORM/obj/Debug/net7.0/TestandoORM.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/TestandoORM/obj/Debug/net7.0/TestandoORM.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/TestandoORM/obj/Debug/net7.0/TestandoORM.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/TestandoORM/obj/Debug/net7.0/TestandoORM.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/TestandoORM/obj/Debug/net7.0/TestandoORM.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/TestandoORM/obj/TestandoORM.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/TestandoORM/obj/TestandoORM.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/TestandoORM/obj/TestandoORM.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/TestandoORM/obj/TestandoORM.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/TestandoORM/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/TestandoORM/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/TestandoORM/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/TestandoORM/obj/project.nuget.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PPBRsHDHfJ26UpA1RkWlcYVS2a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/arthu/Documents/ULBRA/2023-1/ESTRUTURA DE DADOS/ordenacaoJava&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed4d9179-7309-44ec-af2f-f758b924688e" name="Changes" comment="" />
+      <created>1683348834001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683348834001</updated>
+      <workItem from="1683348835648" duration="2293000" />
+      <workItem from="1683387987287" duration="7750000" />
+      <workItem from="1683460352311" duration="220000" />
+      <workItem from="1683677159543" duration="33000" />
+      <workItem from="1684274974651" duration="712000" />
+      <workItem from="1684364492452" duration="1193000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

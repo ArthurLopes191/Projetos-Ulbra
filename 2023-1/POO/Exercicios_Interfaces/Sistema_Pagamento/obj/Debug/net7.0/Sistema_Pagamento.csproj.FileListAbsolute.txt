@@ -1,0 +1,15 @@
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Pagamento\bin\Debug\net7.0\Sistema_Pagamento.exe
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Pagamento\bin\Debug\net7.0\Sistema_Pagamento.deps.json
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Pagamento\bin\Debug\net7.0\Sistema_Pagamento.runtimeconfig.json
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Pagamento\bin\Debug\net7.0\Sistema_Pagamento.dll
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Pagamento\bin\Debug\net7.0\Sistema_Pagamento.pdb
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Pagamento\obj\Debug\net7.0\Sistema_Pagamento.csproj.AssemblyReference.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Pagamento\obj\Debug\net7.0\Sistema_Pagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Pagamento\obj\Debug\net7.0\Sistema_Pagamento.AssemblyInfoInputs.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Pagamento\obj\Debug\net7.0\Sistema_Pagamento.AssemblyInfo.cs
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Pagamento\obj\Debug\net7.0\Sistema_Pagamento.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Pagamento\obj\Debug\net7.0\Sistema_Pagamento.dll
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Pagamento\obj\Debug\net7.0\refint\Sistema_Pagamento.dll
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Pagamento\obj\Debug\net7.0\Sistema_Pagamento.pdb
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Pagamento\obj\Debug\net7.0\Sistema_Pagamento.genruntimeconfig.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Pagamento\obj\Debug\net7.0\ref\Sistema_Pagamento.dll

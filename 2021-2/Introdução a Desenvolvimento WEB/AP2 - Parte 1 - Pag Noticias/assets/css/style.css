@@ -1,0 +1,66 @@
+body{
+    overflow: auto;
+}
+
+.imgHeader{
+    padding: 20px;
+    width: 50%;
+    
+}
+
+.img-noticias{
+    width: 90%;
+}
+
+.imgcolunistas{
+    float: left;
+    max-width: 75%;
+    border-radius: 50%;
+}
+
+.imgcolunistas2{
+    float: left;
+    width: 90%;
+    text-align: center;
+}
+  
+.col-esquerda{
+    height: 20px;
+} 
+
+.nomecolunistas{
+    width: 100%;
+    font-size: 20px;
+    font-weight: bold;
+    color: #bd9b2b;
+
+}
+
+.titulos{
+    max-width: 100%;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(217, 100, 65);
+}
+
+.banner{
+    background-image: url(../img/footer-gaucha-zh.png);
+    background-size: cover;
+    height: 250px;
+    width: 100%;
+}
+
+
+@media (max-width: 767px){
+    .imgcolunistas{
+        max-width: 40%;
+    }
+
+    .img-noticias{
+        text-align: center;
+    }
+    .banner{
+        height: 100%;
+    }
+}
+  

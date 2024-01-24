@@ -1,0 +1,15 @@
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula02_00_basic\bin\Debug\net7.0\Aula02_00_basic.exe
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula02_00_basic\bin\Debug\net7.0\Aula02_00_basic.deps.json
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula02_00_basic\bin\Debug\net7.0\Aula02_00_basic.runtimeconfig.json
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula02_00_basic\bin\Debug\net7.0\Aula02_00_basic.dll
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula02_00_basic\bin\Debug\net7.0\Aula02_00_basic.pdb
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula02_00_basic\obj\Debug\net7.0\Aula02_00_basic.csproj.AssemblyReference.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula02_00_basic\obj\Debug\net7.0\Aula02_00_basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula02_00_basic\obj\Debug\net7.0\Aula02_00_basic.AssemblyInfoInputs.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula02_00_basic\obj\Debug\net7.0\Aula02_00_basic.AssemblyInfo.cs
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula02_00_basic\obj\Debug\net7.0\Aula02_00_basic.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula02_00_basic\obj\Debug\net7.0\Aula02_00_basic.dll
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula02_00_basic\obj\Debug\net7.0\refint\Aula02_00_basic.dll
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula02_00_basic\obj\Debug\net7.0\Aula02_00_basic.pdb
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula02_00_basic\obj\Debug\net7.0\Aula02_00_basic.genruntimeconfig.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula02_00_basic\obj\Debug\net7.0\ref\Aula02_00_basic.dll

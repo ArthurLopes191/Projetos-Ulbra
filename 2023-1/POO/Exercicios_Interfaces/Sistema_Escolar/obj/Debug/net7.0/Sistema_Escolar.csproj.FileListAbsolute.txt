@@ -1,0 +1,15 @@
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Escolar\bin\Debug\net7.0\Sistema_Escolar.exe
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Escolar\bin\Debug\net7.0\Sistema_Escolar.deps.json
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Escolar\bin\Debug\net7.0\Sistema_Escolar.runtimeconfig.json
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Escolar\bin\Debug\net7.0\Sistema_Escolar.dll
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Escolar\bin\Debug\net7.0\Sistema_Escolar.pdb
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Escolar\obj\Debug\net7.0\Sistema_Escolar.csproj.AssemblyReference.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Escolar\obj\Debug\net7.0\Sistema_Escolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Escolar\obj\Debug\net7.0\Sistema_Escolar.AssemblyInfoInputs.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Escolar\obj\Debug\net7.0\Sistema_Escolar.AssemblyInfo.cs
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Escolar\obj\Debug\net7.0\Sistema_Escolar.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Escolar\obj\Debug\net7.0\Sistema_Escolar.dll
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Escolar\obj\Debug\net7.0\refint\Sistema_Escolar.dll
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Escolar\obj\Debug\net7.0\Sistema_Escolar.pdb
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Escolar\obj\Debug\net7.0\Sistema_Escolar.genruntimeconfig.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Exercicios_Interfaces\Sistema_Escolar\obj\Debug\net7.0\ref\Sistema_Escolar.dll

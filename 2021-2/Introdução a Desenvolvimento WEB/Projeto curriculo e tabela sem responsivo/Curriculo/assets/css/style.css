@@ -1,0 +1,133 @@
+*{
+	margin: 0;
+	padding:0;	
+    font-family:sans-serif ;
+}
+
+
+.tudo{ 
+    height: 1500px;
+    width: 55%;
+	margin: 50px auto;
+    border: solid black; 
+    
+}
+
+.row{
+    clear: both;
+
+    
+}
+
+#nome{
+    margin: 5%;
+    background: #65c0c7;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.foto{		
+    text-align: center;	 
+	width: 30%;
+	height: 150px;
+	float: left;
+}
+
+.foto img{
+    max-width:100px;
+    max-height: 100px;
+    border-radius: 50%;
+    border: solid black;
+}
+
+.infos { 
+	width: 68%;
+	float: left; 
+    padding-bottom: 50px;
+}
+
+.titulo{
+    width: 15%;
+	height: 30px;
+	float: left; 
+    padding: 1% 10% 0 5%;
+}
+
+.linha hr{
+    width: 60%;
+    border-color: black;
+}
+
+.unica{
+    padding: 10% 5%;
+}
+
+.column1{
+    width: 40%;
+	height: 30px;
+	float: left; 
+    padding: 0 5%;
+    
+}
+
+.column1 hr{
+    margin-bottom: 20px;
+    border-color: black;
+}
+
+.column1 h1{
+    margin-right: 50px; 
+    margin-bottom: 20px;
+}
+
+.conhecimentos{
+  padding-bottom: 20px;
+}
+
+.itens{
+    float: left;
+}
+
+.circle{
+    margin: 0 5px;
+    height: 10px;
+    width: 10px;
+    background-color: #65c0c7;
+    float: right;
+    border-radius: 50%;
+}
+
+
+.column2{
+    float: left;
+    width: 2px;
+    height: 600px;
+    background-color: black;
+}
+
+.column3{
+    width: 45%;
+    height: 370px;
+	float: left; 
+    padding-left: 20px;
+}
+
+.column3 hr{
+    border-color: black; 
+}
+
+.column3 h1{
+    font-size: 27px ;
+    margin-bottom: 20px ;
+}
+
+.column3 ul{
+    list-style: none;
+    padding: 20px 50px;
+}
+
+.column3 ul li{
+    padding: 30px;
+}
+
+

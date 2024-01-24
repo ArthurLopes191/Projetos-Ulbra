@@ -1,0 +1,15 @@
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Crud_Pessoas\bin\Debug\net7.0\Crud_Pessoas.exe
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Crud_Pessoas\bin\Debug\net7.0\Crud_Pessoas.deps.json
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Crud_Pessoas\bin\Debug\net7.0\Crud_Pessoas.runtimeconfig.json
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Crud_Pessoas\bin\Debug\net7.0\Crud_Pessoas.dll
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Crud_Pessoas\bin\Debug\net7.0\Crud_Pessoas.pdb
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Crud_Pessoas\obj\Debug\net7.0\Crud_Pessoas.csproj.AssemblyReference.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Crud_Pessoas\obj\Debug\net7.0\Crud_Pessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Crud_Pessoas\obj\Debug\net7.0\Crud_Pessoas.AssemblyInfoInputs.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Crud_Pessoas\obj\Debug\net7.0\Crud_Pessoas.AssemblyInfo.cs
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Crud_Pessoas\obj\Debug\net7.0\Crud_Pessoas.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Crud_Pessoas\obj\Debug\net7.0\Crud_Pessoas.dll
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Crud_Pessoas\obj\Debug\net7.0\refint\Crud_Pessoas.dll
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Crud_Pessoas\obj\Debug\net7.0\Crud_Pessoas.pdb
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Crud_Pessoas\obj\Debug\net7.0\Crud_Pessoas.genruntimeconfig.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Crud_Pessoas\obj\Debug\net7.0\ref\Crud_Pessoas.dll

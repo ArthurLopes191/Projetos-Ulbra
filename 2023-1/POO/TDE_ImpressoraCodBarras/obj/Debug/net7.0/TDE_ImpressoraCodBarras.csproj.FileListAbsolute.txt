@@ -1,0 +1,15 @@
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_ImpressoraCodBarras\bin\Debug\net7.0\TDE_ImpressoraCodBarras.exe
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_ImpressoraCodBarras\bin\Debug\net7.0\TDE_ImpressoraCodBarras.deps.json
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_ImpressoraCodBarras\bin\Debug\net7.0\TDE_ImpressoraCodBarras.runtimeconfig.json
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_ImpressoraCodBarras\bin\Debug\net7.0\TDE_ImpressoraCodBarras.dll
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_ImpressoraCodBarras\bin\Debug\net7.0\TDE_ImpressoraCodBarras.pdb
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_ImpressoraCodBarras\obj\Debug\net7.0\TDE_ImpressoraCodBarras.csproj.AssemblyReference.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_ImpressoraCodBarras\obj\Debug\net7.0\TDE_ImpressoraCodBarras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_ImpressoraCodBarras\obj\Debug\net7.0\TDE_ImpressoraCodBarras.AssemblyInfoInputs.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_ImpressoraCodBarras\obj\Debug\net7.0\TDE_ImpressoraCodBarras.AssemblyInfo.cs
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_ImpressoraCodBarras\obj\Debug\net7.0\TDE_ImpressoraCodBarras.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_ImpressoraCodBarras\obj\Debug\net7.0\TDE_ImpressoraCodBarras.dll
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_ImpressoraCodBarras\obj\Debug\net7.0\refint\TDE_ImpressoraCodBarras.dll
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_ImpressoraCodBarras\obj\Debug\net7.0\TDE_ImpressoraCodBarras.pdb
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_ImpressoraCodBarras\obj\Debug\net7.0\TDE_ImpressoraCodBarras.genruntimeconfig.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_ImpressoraCodBarras\obj\Debug\net7.0\ref\TDE_ImpressoraCodBarras.dll

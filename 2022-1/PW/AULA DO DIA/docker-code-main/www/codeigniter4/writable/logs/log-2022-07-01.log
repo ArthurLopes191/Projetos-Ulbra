@@ -1,0 +1,253 @@
+CRITICAL - 2022-07-01 11:50:53 --> Too few arguments to function App\Models\ClientModel::getClientsFor(), 0 passed in /var/www/html/codeigniter4/app/Controllers/Admin/Client.php on line 85 and exactly 1 expected
+in APPPATH/Models/ClientModel.php on line 22.
+ 1 APPPATH/Controllers/Admin/Client.php(85): App\Models\ClientModel->getClientsFor()
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 11:52:33 --> syntax error, unexpected token ";", expecting "]"
+in APPPATH/Controllers/Admin/Client.php on line 85.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Admin/Client.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Admin\\Client')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Admin\\Client')
+ 4 SYSTEMPATH/CodeIgniter.php(848): class_exists('\\App\\Controllers\\Admin\\Client', true)
+ 5 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 11:52:57 --> Undefined variable $search
+in APPPATH/Controllers/Admin/Client.php on line 85.
+ 1 APPPATH/Controllers/Admin/Client.php(85): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $search', 'APPPATH/Controllers/Admin/Client.php', 85)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 11:54:25 --> Too few arguments to function App\Controllers\Admin\Client::searchClient(), 0 passed in /var/www/html/codeigniter4/system/CodeIgniter.php on line 898 and exactly 1 expected
+in APPPATH/Controllers/Admin/Client.php on line 81.
+ 1 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 2 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 3 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 12:56:06 --> Too few arguments to function App\Models\ClientModel::getClientsFor(), 0 passed in /var/www/html/codeigniter4/app/Controllers/Admin/Client.php on line 84 and exactly 1 expected
+in APPPATH/Models/ClientModel.php on line 22.
+ 1 APPPATH/Controllers/Admin/Client.php(84): App\Models\ClientModel->getClientsFor()
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->getClientsFor()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 15:21:05 --> Too few arguments to function App\Models\ClientModel::getClientsFor(), 0 passed in /var/www/html/codeigniter4/app/Controllers/Admin/Client.php on line 84 and exactly 1 expected
+in APPPATH/Models/ClientModel.php on line 22.
+ 1 APPPATH/Controllers/Admin/Client.php(84): App\Models\ClientModel->getClientsFor()
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->getClientsFor()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 15:21:52 --> Too few arguments to function App\Models\ClientModel::getClientsFor(), 0 passed in /var/www/html/codeigniter4/app/Controllers/Admin/Client.php on line 84 and exactly 1 expected
+in APPPATH/Models/ClientModel.php on line 22.
+ 1 APPPATH/Controllers/Admin/Client.php(84): App\Models\ClientModel->getClientsFor()
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->getClientsFor()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 15:22:07 --> Too few arguments to function App\Models\ClientModel::getClientsFor(), 0 passed in /var/www/html/codeigniter4/app/Controllers/Admin/Client.php on line 84 and exactly 1 expected
+in APPPATH/Models/ClientModel.php on line 22.
+ 1 APPPATH/Controllers/Admin/Client.php(84): App\Models\ClientModel->getClientsFor()
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->getClientsFor()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 15:22:36 --> Too few arguments to function App\Models\ClientModel::getClientsFor(), 0 passed in /var/www/html/codeigniter4/app/Controllers/Admin/Client.php on line 84 and exactly 1 expected
+in APPPATH/Models/ClientModel.php on line 22.
+ 1 APPPATH/Controllers/Admin/Client.php(84): App\Models\ClientModel->getClientsFor()
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->getClientsFor()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 16:10:30 --> Too few arguments to function App\Models\ClientModel::getClientsFor(), 0 passed in /var/www/html/codeigniter4/app/Controllers/Admin/Client.php on line 84 and exactly 1 expected
+in APPPATH/Models/ClientModel.php on line 22.
+ 1 APPPATH/Controllers/Admin/Client.php(84): App\Models\ClientModel->getClientsFor()
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->getClientsFor()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 16:15:35 --> Too few arguments to function App\Models\ClientModel::getClientsFor(), 0 passed in /var/www/html/codeigniter4/app/Controllers/Admin/Client.php on line 84 and exactly 1 expected
+in APPPATH/Models/ClientModel.php on line 22.
+ 1 APPPATH/Controllers/Admin/Client.php(84): App\Models\ClientModel->getClientsFor()
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 16:19:35 --> Too few arguments to function App\Models\ClientModel::getClientsFor(), 0 passed in /var/www/html/codeigniter4/app/Controllers/Admin/Client.php on line 84 and exactly 1 expected
+in APPPATH/Models/ClientModel.php on line 22.
+ 1 APPPATH/Controllers/Admin/Client.php(84): App\Models\ClientModel->getClientsFor()
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 16:19:41 --> Too few arguments to function App\Models\ClientModel::getClientsFor(), 0 passed in /var/www/html/codeigniter4/app/Controllers/Admin/Client.php on line 84 and exactly 1 expected
+in APPPATH/Models/ClientModel.php on line 22.
+ 1 APPPATH/Controllers/Admin/Client.php(84): App\Models\ClientModel->getClientsFor()
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 16:20:45 --> Too few arguments to function App\Controllers\Admin\Client::searchClient(), 0 passed in /var/www/html/codeigniter4/system/CodeIgniter.php on line 898 and exactly 1 expected
+in APPPATH/Controllers/Admin/Client.php on line 81.
+ 1 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 2 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 3 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 16:22:08 --> Too few arguments to function App\Controllers\Admin\Client::searchClient(), 0 passed in /var/www/html/codeigniter4/system/CodeIgniter.php on line 898 and exactly 1 expected
+in APPPATH/Controllers/Admin/Client.php on line 81.
+ 1 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 2 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 3 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 16:22:39 --> Undefined variable $search
+in APPPATH/Controllers/Admin/Client.php on line 84.
+ 1 APPPATH/Controllers/Admin/Client.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $search', 'APPPATH/Controllers/Admin/Client.php', 84)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 16:22:53 --> Undefined variable $search
+in APPPATH/Controllers/Admin/Client.php on line 84.
+ 1 APPPATH/Controllers/Admin/Client.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $search', 'APPPATH/Controllers/Admin/Client.php', 84)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 16:24:03 --> Too few arguments to function App\Controllers\Admin\Client::searchClient(), 0 passed in /var/www/html/codeigniter4/system/CodeIgniter.php on line 898 and exactly 1 expected
+in APPPATH/Controllers/Admin/Client.php on line 81.
+ 1 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 2 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 3 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 17:29:26 --> Undefined variable $search
+in APPPATH/Controllers/Admin/Client.php on line 84.
+ 1 APPPATH/Controllers/Admin/Client.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $search', 'APPPATH/Controllers/Admin/Client.php', 84)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 17:29:45 --> Too few arguments to function App\Controllers\Admin\Client::searchClient(), 0 passed in /var/www/html/codeigniter4/system/CodeIgniter.php on line 898 and exactly 1 expected
+in APPPATH/Controllers/Admin/Client.php on line 81.
+ 1 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 2 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 3 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 17:33:00 --> Too few arguments to function App\Controllers\Admin\Client::searchClient(), 0 passed in /var/www/html/codeigniter4/system/CodeIgniter.php on line 898 and exactly 1 expected
+in APPPATH/Controllers/Admin/Client.php on line 81.
+ 1 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 2 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 3 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 17:48:27 --> Too few arguments to function App\Controllers\Admin\Client::searchClient(), 0 passed in /var/www/html/codeigniter4/system/CodeIgniter.php on line 898 and exactly 1 expected
+in APPPATH/Controllers/Admin/Client.php on line 81.
+ 1 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 2 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 3 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 17:50:23 --> Undefined variable $search
+in APPPATH/Controllers/Admin/Client.php on line 84.
+ 1 APPPATH/Controllers/Admin/Client.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $search', 'APPPATH/Controllers/Admin/Client.php', 84)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 17:51:04 --> Undefined variable $search
+in APPPATH/Controllers/Admin/Client.php on line 84.
+ 1 APPPATH/Controllers/Admin/Client.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $search', 'APPPATH/Controllers/Admin/Client.php', 84)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 18:03:47 --> Too few arguments to function App\Models\ClientModel::getClientsFor(), 0 passed in /var/www/html/codeigniter4/app/Controllers/Admin/Client.php on line 84 and exactly 1 expected
+in APPPATH/Models/ClientModel.php on line 22.
+ 1 APPPATH/Controllers/Admin/Client.php(84): App\Models\ClientModel->getClientsFor()
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 18:04:14 --> Undefined variable $search
+in APPPATH/Controllers/Admin/Client.php on line 84.
+ 1 APPPATH/Controllers/Admin/Client.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $search', 'APPPATH/Controllers/Admin/Client.php', 84)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 18:06:09 --> Too few arguments to function App\Models\ClientModel::getClientsFor(), 0 passed in /var/www/html/codeigniter4/app/Controllers/Admin/Client.php on line 84 and exactly 1 expected
+in APPPATH/Models/ClientModel.php on line 22.
+ 1 APPPATH/Controllers/Admin/Client.php(84): App\Models\ClientModel->getClientsFor()
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 18:08:31 --> Undefined variable $client
+in APPPATH/Views/admin/client/listClients.php on line 28.
+ 1 APPPATH/Views/admin/client/listClients.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $client', 'APPPATH/Views/admin/client/listClients.php', 28)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/listClients.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/listClients', [], true)
+ 5 APPPATH/Controllers/Admin/Client.php(17): view('admin/client/listClients', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->listClients()
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 18:08:56 --> Too few arguments to function App\Models\ClientModel::getClientsFor(), 0 passed in /var/www/html/codeigniter4/app/Controllers/Admin/Client.php on line 84 and exactly 1 expected
+in APPPATH/Models/ClientModel.php on line 22.
+ 1 APPPATH/Controllers/Admin/Client.php(84): App\Models\ClientModel->getClientsFor()
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 18:16:15 --> Undefined variable $search
+in APPPATH/Controllers/Admin/Client.php on line 84.
+ 1 APPPATH/Controllers/Admin/Client.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $search', 'APPPATH/Controllers/Admin/Client.php', 84)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 18:48:41 --> Call to undefined method App\Models\ClientModel::search
+in SYSTEMPATH/Model.php on line 773.
+ 1 APPPATH/Controllers/Admin/Client.php(90): CodeIgniter\Model->__call('search', [...])
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 18:58:25 --> Too few arguments to function App\Models\ClientModel::getClientsFor(), 0 passed in /var/www/html/codeigniter4/app/Controllers/Admin/Client.php on line 84 and exactly 1 expected
+in APPPATH/Models/ClientModel.php on line 22.
+ 1 APPPATH/Controllers/Admin/Client.php(84): App\Models\ClientModel->getClientsFor()
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 18:58:37 --> Too few arguments to function App\Models\ClientModel::getClientsFor(), 0 passed in /var/www/html/codeigniter4/app/Controllers/Admin/Client.php on line 84 and exactly 1 expected
+in APPPATH/Models/ClientModel.php on line 22.
+ 1 APPPATH/Controllers/Admin/Client.php(84): App\Models\ClientModel->getClientsFor()
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 19:10:34 --> Too few arguments to function App\Models\ClientModel::getClientsFor(), 0 passed in /var/www/html/codeigniter4/app/Controllers/Admin/Client.php on line 84 and exactly 1 expected
+in APPPATH/Models/ClientModel.php on line 22.
+ 1 APPPATH/Controllers/Admin/Client.php(84): App\Models\ClientModel->getClientsFor()
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 19:48:52 --> Too few arguments to function App\Models\ClientModel::getClientsFor(), 0 passed in /var/www/html/codeigniter4/app/Controllers/Admin/Client.php on line 90 and exactly 1 expected
+in APPPATH/Models/ClientModel.php on line 22.
+ 1 APPPATH/Controllers/Admin/Client.php(90): App\Models\ClientModel->getClientsFor()
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClientAction()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 19:49:44 --> Invalid file: admin/client/searchClient.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/client/searchClient.php')
+ 2 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/searchClient', [], true)
+ 3 APPPATH/Controllers/Admin/Client.php(94): view('admin/client/searchClient', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClientAction()
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()

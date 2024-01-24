@@ -1,0 +1,15 @@
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_Aula_02\Pessoa\obj\Debug\net7.0\Pessoa.csproj.AssemblyReference.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_Aula_02\Pessoa\obj\Debug\net7.0\Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_Aula_02\Pessoa\obj\Debug\net7.0\Pessoa.AssemblyInfoInputs.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_Aula_02\Pessoa\obj\Debug\net7.0\Pessoa.AssemblyInfo.cs
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_Aula_02\Pessoa\obj\Debug\net7.0\Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_Aula_02\Pessoa\bin\Debug\net7.0\Pessoa.exe
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_Aula_02\Pessoa\bin\Debug\net7.0\Pessoa.deps.json
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_Aula_02\Pessoa\bin\Debug\net7.0\Pessoa.runtimeconfig.json
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_Aula_02\Pessoa\bin\Debug\net7.0\Pessoa.dll
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_Aula_02\Pessoa\bin\Debug\net7.0\Pessoa.pdb
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_Aula_02\Pessoa\obj\Debug\net7.0\Pessoa.dll
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_Aula_02\Pessoa\obj\Debug\net7.0\refint\Pessoa.dll
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_Aula_02\Pessoa\obj\Debug\net7.0\Pessoa.pdb
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_Aula_02\Pessoa\obj\Debug\net7.0\Pessoa.genruntimeconfig.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\TDE_Aula_02\Pessoa\obj\Debug\net7.0\ref\Pessoa.dll

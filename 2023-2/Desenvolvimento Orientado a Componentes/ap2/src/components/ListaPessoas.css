@@ -1,0 +1,55 @@
+.container-lista-pessoas{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.lista-pessoas{
+    width: 900px;
+    min-height: 400px;
+    display: flex;
+    justify-content:baseline;
+    flex-wrap: wrap;
+    margin: 20px 0 20px 0;
+    background-color: #D9D9D9;
+    border-radius: 20px;
+}
+
+
+
+.card{
+    text-align: center;
+    height: 300px;
+    width: 200px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: #6B6B6B;
+    margin: 30px ;
+}
+
+.img-pessoa{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+
+
+@media (max-width: 930px) {
+    .lista-pessoas{
+        width: 90%;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 605px) {
+    .lista-pessoas{
+        width:fit-content;
+        justify-content:center;
+        
+       
+    }
+}

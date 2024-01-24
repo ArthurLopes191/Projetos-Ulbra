@@ -1,0 +1,23 @@
+.circle{
+    margin: 0 5px;
+    height: 10px;
+    width: 10px;
+    background-color: #65c0c7;
+    float: right;
+    border-radius: 50%;
+}
+
+.column2{
+    float: left;
+    width: 1px;
+    height: 600px;
+    background-color: black;
+}
+
+
+@media (max-width: 575px){
+    .column2{
+        height: 0;
+    }
+}
+  

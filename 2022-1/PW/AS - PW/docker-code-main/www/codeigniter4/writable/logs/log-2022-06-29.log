@@ -1,0 +1,22 @@
+CRITICAL - 2022-06-29 16:51:20 --> Undefined variable $client
+in APPPATH/Views/admin/client/listClients.php on line 8.
+ 1 APPPATH/Views/admin/client/listClients.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $client', 'APPPATH/Views/admin/client/listClients.php', 8)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/listClients.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/listClients', [], true)
+ 5 APPPATH/Controllers/Admin/Client.php(17): view('admin/client/listClients', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->listClients()
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-29 16:57:51 --> Undefined variable $client
+in APPPATH/Views/admin/client/listClients.php on line 8.
+ 1 APPPATH/Views/admin/client/listClients.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $client', 'APPPATH/Views/admin/client/listClients.php', 8)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/listClients.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/listClients', [], true)
+ 5 APPPATH/Controllers/Admin/Client.php(17): view('admin/client/listClients', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->listClients()
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()

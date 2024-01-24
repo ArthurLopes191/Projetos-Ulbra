@@ -1,0 +1,53 @@
+CRITICAL - 2022-07-02 13:15:09 --> Undefined property: App\Controllers\Admin\Client::$ClientModel
+in APPPATH/Controllers/Admin/Client.php on line 95.
+ 1 APPPATH/Controllers/Admin/Client.php(95): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Admin\\Client::$ClientModel', 'APPPATH/Controllers/Admin/Client.php', 95)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 13:15:46 --> Undefined variable $arrayClients
+in APPPATH/Controllers/Admin/Client.php on line 102.
+ 1 APPPATH/Controllers/Admin/Client.php(102): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $arrayClients', 'APPPATH/Controllers/Admin/Client.php', 102)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 13:15:49 --> Undefined variable $arrayClients
+in APPPATH/Controllers/Admin/Client.php on line 102.
+ 1 APPPATH/Controllers/Admin/Client.php(102): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $arrayClients', 'APPPATH/Controllers/Admin/Client.php', 102)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 13:16:02 --> Undefined variable $arrayClients
+in APPPATH/Controllers/Admin/Client.php on line 102.
+ 1 APPPATH/Controllers/Admin/Client.php(102): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $arrayClients', 'APPPATH/Controllers/Admin/Client.php', 102)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 13:16:05 --> Undefined variable $arrayClients
+in APPPATH/Controllers/Admin/Client.php on line 102.
+ 1 APPPATH/Controllers/Admin/Client.php(102): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $arrayClients', 'APPPATH/Controllers/Admin/Client.php', 102)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 17:10:44 --> Undefined variable $clients
+in APPPATH/Views/admin/client/listClients.php on line 27.
+ 1 APPPATH/Views/admin/client/listClients.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $clients', 'APPPATH/Views/admin/client/listClients.php', 27)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/listClients.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/listClients', [], true)
+ 5 APPPATH/Controllers/Admin/Client.php(88): view('admin/client/listClients')
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 17:11:30 --> Undefined variable $data
+in APPPATH/Controllers/Admin/Client.php on line 88.
+ 1 APPPATH/Controllers/Admin/Client.php(88): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'APPPATH/Controllers/Admin/Client.php', 88)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()

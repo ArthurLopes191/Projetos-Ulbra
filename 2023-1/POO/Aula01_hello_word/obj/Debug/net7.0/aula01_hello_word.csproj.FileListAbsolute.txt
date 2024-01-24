@@ -1,0 +1,15 @@
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\aula01_hello_word\bin\Debug\net7.0\aula01_hello_word.exe
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\aula01_hello_word\bin\Debug\net7.0\aula01_hello_word.deps.json
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\aula01_hello_word\bin\Debug\net7.0\aula01_hello_word.runtimeconfig.json
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\aula01_hello_word\bin\Debug\net7.0\aula01_hello_word.dll
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\aula01_hello_word\bin\Debug\net7.0\aula01_hello_word.pdb
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\aula01_hello_word\obj\Debug\net7.0\aula01_hello_word.csproj.AssemblyReference.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\aula01_hello_word\obj\Debug\net7.0\aula01_hello_word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\aula01_hello_word\obj\Debug\net7.0\aula01_hello_word.AssemblyInfoInputs.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\aula01_hello_word\obj\Debug\net7.0\aula01_hello_word.AssemblyInfo.cs
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\aula01_hello_word\obj\Debug\net7.0\aula01_hello_word.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\aula01_hello_word\obj\Debug\net7.0\aula01_hello_word.dll
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\aula01_hello_word\obj\Debug\net7.0\refint\aula01_hello_word.dll
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\aula01_hello_word\obj\Debug\net7.0\aula01_hello_word.pdb
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\aula01_hello_word\obj\Debug\net7.0\aula01_hello_word.genruntimeconfig.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\aula01_hello_word\obj\Debug\net7.0\ref\aula01_hello_word.dll

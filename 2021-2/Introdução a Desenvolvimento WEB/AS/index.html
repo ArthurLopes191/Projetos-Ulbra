@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AS</title>
+
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>       
+
+      <script src="assets/script.js"></script>
+      <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    
+    <header class="jumbotron text-center">
+      <div class="container">
+				<div><div class="logo-1"></div><!--logo-1--></div>
+				<div><div class="logo-2"></div><!--logo-2--></div>
+				<div class="clear"><!--clear-->
+			</div><!--container-->
+    </header>
+
+          <section class="container">
+            <div class="bg">
+              <div class="row">
+                <article class="col-sm-7 text-justify">
+                  <h1 id="title">Condominio Cote d'Azur</h1>
+                  <p id="text">É um projeto inovador em todos os sentidos. Do ponto de vista da paisagem, por ser um dos únicos à beira-mar e ter um a fachada que encanta pela inovação, modernidade e natureza viva.</p>
+                </article> 
+
+                  <aside class="col-sm-5 text-center">
+                      <h3 id="flip1">Abrir Formulário</h3>
+                      <div id="text1">
+                        <div id="form">  
+                            <form name="formuser">
+                                <div class="input-container">
+                                  <p>Nome*</p>
+                                  <input type="text" name="nome"/>
+                                </div>
+                  
+                                <div class="input-container">
+                                  <p>E-mail*</p>
+                                  <input type="text" name="email">
+                                </div>
+                  
+                                <div class="input-container">
+                                  <p>Assunto*</p>
+                                  <input type="text" name="assunto">
+                                </div>
+                  
+                                <textarea id="text-area" name="mensagem" rows="2" cols="10">Mensagem</textarea>
+                  
+                                <div class="input-submit-container">
+                                  <input type="submit" onclick="return validarEmail()">
+                                </div>
+                            </form>
+                          </form>
+                      </div><!--Form-->  
+                  </aside>
+              </div><!--row-->
+            </div><!--bg-->
+          </section>
+
+          
+    
+        <footer class="jumbotron text-center mt-5">
+            <p>Arthur Fidelis Lopes</p>
+        </footer>
+</body>
+</html>

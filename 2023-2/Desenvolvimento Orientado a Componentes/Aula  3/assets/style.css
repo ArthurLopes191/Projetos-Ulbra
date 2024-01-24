@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    font-family: "Titillium Web", "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
+    background-color: black;
+}
+
+.container-menu-principal{
+    height: 150px;
+    width: 100%;
+    border: 1px solid black;
+    position: fixed;
+    background-image:url(https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/starfield-banner.jpg) ;
+    
+    z-index: 1;
+}
+
+
+.logo{
+    margin: 15px 200px ;
+    float: left;
+}
+
+
+.flex-navbar{
+    display: flex;
+    flex-wrap: nowrap;
+    width: fit-content;
+    float: left;
+}
+
+.flex-navbar li{
+    border-left: solid grey;
+    padding: 0px 20px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 20px;
+    list-style: none;
+    color: white;
+}
+
+
+.flex-navbar li:hover{
+    cursor: pointer;
+    border: solid #15418c;
+    background-color: #15418c;
+}
+
+
+#navbar-input{
+    float: right;
+    margin-top: 17px; 
+    margin-right: 200px;
+    padding: 15px ;
+    background-image: url(https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/search.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: #333333;
+    color: #fff;
+    border-radius: 7px;
+}
+
+
+.main-container{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    top:150px;
+}
+
+.container-fotos{
+    width: 100%;
+    background-color: black;
+    margin-bottom: 15px;
+}
+  
+.row-one{
+    width: 80%;
+    margin: 0 auto;
+    height: 600px;
+    
+}
+
+.column-one{
+    width: 48%;
+    height: 100%;
+    background-color: blue;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.column-two{
+    width: 48%;
+    height: 100%;
+    background-color: red;
+    display: inline-block;
+}
+
+.img-noticias{
+    width: 100%;
+    height: 100%;
+}
+
+#more-content{
+    display: none;
+}
+
+.container-button {
+    text-align: center; 
+}
+
+.button-more-content {
+    display: inline-block; 
+    background-color: #15418c;
+    width: 80%;
+    height: 40px;
+    line-height: 40px;
+    color: #fff;
+    border-radius: 8px;
+}
+
+.button-more-content:hover{
+    cursor: pointer;
+}
+    

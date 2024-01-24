@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "64811d955a45a52917da9899"
+  },
+  "VisitanteID": 1,
+  "Nome": "Maria",
+  "Relacionamento": "Esposa"
+},
+{
+  "_id": {
+    "$oid": "64811f985a45a52917da989c"
+  },
+  "VisitanteID": 2,
+  "Nome": "Dorizete",
+  "Relacionamento": "Mãe"
+},
+{
+  "_id": {
+    "$oid": "64811fa95a45a52917da989d"
+  },
+  "VisitanteID": 3,
+  "Nome": "José",
+  "Relacionamento": "Pai"
+}]

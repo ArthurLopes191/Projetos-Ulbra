@@ -1,0 +1,108 @@
+ERROR - 2022-06-17 22:31:03 --> Table 'pw_exemple.user' doesn't exist
+CRITICAL - 2022-06-17 22:31:03 --> Table 'pw_exemple.user' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query('SELECT *
+FROM `user`
+WHERE `user` = \'adm\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH/Database/BaseConnection.php(678): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `user`
+WHERE `user` = \'adm\'
+ LIMIT 1')
+ 3 SYSTEMPATH/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `user`
+WHERE `user` = \'adm\'
+ LIMIT 1')
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `user`
+WHERE `user` = :user:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH/Model.php(249): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/BaseModel.php(622): CodeIgniter\Model->doFirst()
+ 7 APPPATH/Models/UserModel.php(22): CodeIgniter\BaseModel->first()
+ 8 APPPATH/Controllers/Admin/User.php(16): App\Models\UserModel->getUser('adm')
+ 9 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\User->validateLogin()
+10 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\User))
+11 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-06-17 22:33:42 --> Table 'pw_exemple.user' doesn't exist
+CRITICAL - 2022-06-17 22:33:42 --> Table 'pw_exemple.user' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query('SELECT *
+FROM `user`
+WHERE `user` = \'adm\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH/Database/BaseConnection.php(678): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `user`
+WHERE `user` = \'adm\'
+ LIMIT 1')
+ 3 SYSTEMPATH/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `user`
+WHERE `user` = \'adm\'
+ LIMIT 1')
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `user`
+WHERE `user` = :user:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH/Model.php(249): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/BaseModel.php(622): CodeIgniter\Model->doFirst()
+ 7 APPPATH/Models/UserModel.php(22): CodeIgniter\BaseModel->first()
+ 8 APPPATH/Controllers/Admin/User.php(16): App\Models\UserModel->getUser('adm')
+ 9 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\User->validateLogin()
+10 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\User))
+11 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-06-17 22:37:26 --> Table 'pw_exemple.user' doesn't exist
+CRITICAL - 2022-06-17 22:37:26 --> Table 'pw_exemple.user' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query('SELECT *
+FROM `user`
+WHERE `user` = \'adm\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH/Database/BaseConnection.php(678): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `user`
+WHERE `user` = \'adm\'
+ LIMIT 1')
+ 3 SYSTEMPATH/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `user`
+WHERE `user` = \'adm\'
+ LIMIT 1')
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `user`
+WHERE `user` = :user:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH/Model.php(249): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/BaseModel.php(622): CodeIgniter\Model->doFirst()
+ 7 APPPATH/Models/UserModel.php(22): CodeIgniter\BaseModel->first()
+ 8 APPPATH/Controllers/Admin/User.php(16): App\Models\UserModel->getUser('adm')
+ 9 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\User->validateLogin()
+10 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\User))
+11 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-06-17 23:08:30 --> Table 'pw_exemple.user' doesn't exist
+CRITICAL - 2022-06-17 23:08:30 --> Table 'pw_exemple.user' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query('SELECT *
+FROM `user`
+WHERE `user` = \'adm\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH/Database/BaseConnection.php(678): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `user`
+WHERE `user` = \'adm\'
+ LIMIT 1')
+ 3 SYSTEMPATH/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `user`
+WHERE `user` = \'adm\'
+ LIMIT 1')
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `user`
+WHERE `user` = :user:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH/Model.php(249): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/BaseModel.php(622): CodeIgniter\Model->doFirst()
+ 7 APPPATH/Models/UserModel.php(22): CodeIgniter\BaseModel->first()
+ 8 APPPATH/Controllers/Admin/User.php(16): App\Models\UserModel->getUser('adm')
+ 9 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\User->validateLogin()
+10 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\User))
+11 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()

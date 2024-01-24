@@ -1,0 +1,15 @@
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula10_Exercicios\bin\Debug\net7.0\Aula10_Exercicios.exe
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula10_Exercicios\bin\Debug\net7.0\Aula10_Exercicios.deps.json
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula10_Exercicios\bin\Debug\net7.0\Aula10_Exercicios.runtimeconfig.json
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula10_Exercicios\bin\Debug\net7.0\Aula10_Exercicios.dll
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula10_Exercicios\bin\Debug\net7.0\Aula10_Exercicios.pdb
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula10_Exercicios\obj\Debug\net7.0\Aula10_Exercicios.csproj.AssemblyReference.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula10_Exercicios\obj\Debug\net7.0\Aula10_Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula10_Exercicios\obj\Debug\net7.0\Aula10_Exercicios.AssemblyInfoInputs.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula10_Exercicios\obj\Debug\net7.0\Aula10_Exercicios.AssemblyInfo.cs
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula10_Exercicios\obj\Debug\net7.0\Aula10_Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula10_Exercicios\obj\Debug\net7.0\Aula10_Exercicios.dll
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula10_Exercicios\obj\Debug\net7.0\refint\Aula10_Exercicios.dll
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula10_Exercicios\obj\Debug\net7.0\Aula10_Exercicios.pdb
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula10_Exercicios\obj\Debug\net7.0\Aula10_Exercicios.genruntimeconfig.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Aula10_Exercicios\obj\Debug\net7.0\ref\Aula10_Exercicios.dll

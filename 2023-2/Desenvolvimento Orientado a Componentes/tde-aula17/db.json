@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Produto 1",
+      "price": 19.9,
+      "description": "Descrição do Produto 1",
+      "photo_url": "https://961souq.com/cdn/shop/files/Apple-iPhone-15-Pro-5_fd0d9d18-4418-405b-a2f4-51714ebc27ec.jpg?v=1695476110"
+    },
+    {
+      "id": 2,
+      "name": "Produto 2",
+      "price": 29.9,
+      "description": "Descrição do Produto 2",
+      "photo_url": "https://a-static.mlcdn.com.br/450x450/smartphone-samsung-galaxy-s23-ultra-5g-256gb-12gb-ram-tela-infinita-de-6-8-dual-chip/samsung/3986/05ad1a483c617d3ddf2322294098cb7d.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Produto 3",
+      "price": 39.9,
+      "description": "Descrição do Produto 3",
+      "photo_url": "https://d1r6yjixh9u0er.cloudfront.net/Custom/Content/Products/46/49/4649_smartphone-xiaomi-13-lite-5g-256gb-c00356_m1_638246691061874045.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Produto 4",
+      "price": 49.9,
+      "description": "Descrição do Produto 4",
+      "photo_url": "https://s2-techtudo.glbimg.com/dBf2a7pCyT-73WrZMFOPUCTjzI4=/0x0:936x515/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/n/U/LExArjS162RoVfbw0kUA/google-pixel-8.jpg"
+    },
+    {
+      "name": "Produto 5",
+      "price": "199",
+      "description": "DESCRIÇÃO",
+      "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPVVFvtpcZsItCUIzM3NT6Uilg1mnu-JIehHHy2xKxzHdqmVHYVJ1j2zX5dHLzZdPkKuk&usqp=CAU",
+      "id": 5
+    },
+    {
+      "name": "Produto 6",
+      "price": "2000",
+      "description": "Celular",
+      "photo_url": "data:image/png;base64,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",
+      "id": 6
+    }
+  ]
+}

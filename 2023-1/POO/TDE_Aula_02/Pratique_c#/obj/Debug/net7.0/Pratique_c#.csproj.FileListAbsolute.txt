@@ -1,0 +1,15 @@
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Pratique_c#\bin\Debug\net7.0\Pratique_c#.exe
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Pratique_c#\bin\Debug\net7.0\Pratique_c#.deps.json
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Pratique_c#\bin\Debug\net7.0\Pratique_c#.runtimeconfig.json
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Pratique_c#\bin\Debug\net7.0\Pratique_c#.dll
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Pratique_c#\bin\Debug\net7.0\Pratique_c#.pdb
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Pratique_c#\obj\Debug\net7.0\Pratique_c#.csproj.AssemblyReference.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Pratique_c#\obj\Debug\net7.0\Pratique_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Pratique_c#\obj\Debug\net7.0\Pratique_c#.AssemblyInfoInputs.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Pratique_c#\obj\Debug\net7.0\Pratique_c#.AssemblyInfo.cs
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Pratique_c#\obj\Debug\net7.0\Pratique_c#.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Pratique_c#\obj\Debug\net7.0\Pratique_c#.dll
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Pratique_c#\obj\Debug\net7.0\refint\Pratique_c#.dll
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Pratique_c#\obj\Debug\net7.0\Pratique_c#.pdb
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Pratique_c#\obj\Debug\net7.0\Pratique_c#.genruntimeconfig.cache
+C:\Users\arthu\Documents\ULBRA\2023-1\POO\Pratique_c#\obj\Debug\net7.0\ref\Pratique_c#.dll

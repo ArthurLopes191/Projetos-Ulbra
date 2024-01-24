@@ -1,0 +1,42 @@
+.localizacao{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    width: 500px;
+}
+
+
+.buttonLocalizacao{
+    margin: 20px;
+    padding: 15px 60px;
+    border-radius: 20px;
+    background-color: #65ABFD;
+    
+    
+}
+
+.buttonLocalizacao:hover{
+    cursor: pointer;
+}
+
+.dadosEndereco{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background-color: #D9D9D9;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.dadosEndereco h2{
+    margin-top: 10px;
+}
+
+
+
+@media (max-width: 600px) {
+    .dadosEndereco{
+        display: inline-block;
+        
+    }
+}

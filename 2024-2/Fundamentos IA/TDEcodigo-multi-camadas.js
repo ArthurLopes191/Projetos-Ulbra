@@ -69,9 +69,15 @@ class RedeNeural {
 
     // Função auxiliar para multiplicar matrizes
     multiplicarMatriz(vetor, matriz) {
-        return matriz[0].map((_, j) =>
-            vetor.reduce((acc, valor, i) => acc + valor * matriz[i][j], 0)
-        );
+        let resultado = [];
+        for (let j = 0; j < matriz[0].length; j++) {
+            let soma = 0;
+            for (let i = 0; i < vetor.length; i++) {
+                soma += vetor[i] * matriz[i][j];
+            }
+            resultado.push(soma);
+        }
+        return resultado;
     }
 }
 

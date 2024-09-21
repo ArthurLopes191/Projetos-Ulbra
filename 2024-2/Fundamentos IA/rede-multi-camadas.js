@@ -1,7 +1,7 @@
-// class Entrada{
-//     valorEntrada = 0;
-//     peso = 0;
-// }
+class Entrada{
+    valorEntrada = 0;
+    peso = 0;
+}
 
 let entradas_pesos = [
     {entrada: -1, peso: 0},
@@ -80,5 +80,16 @@ function funcaoSigmoide(soma){
         return 1 - 1 / (1 + soma);
     } else {
         return -1 + 1 / (1 - soma);
+    }
+}
+
+function verificaSeNecessitaAjustar(treinamento, resultadoEsperado){
+    soma =  somar(treinamento)
+    resultadoObtido = transferencia(soma)
+
+    if(resultadoObtido != resultadoEsperado) {
+        ajustar(x1, x2, resultadoEsperado, resultadoObtido)
+        ajustes++
+        quantidadeAjustesTotais++
     }
 }

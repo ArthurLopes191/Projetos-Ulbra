@@ -1,5 +1,6 @@
 import 'package:api_rick_morty/models/character.dart';
 import 'package:api_rick_morty/services/character_service.dart';
+import 'package:api_rick_morty/widgets/list_builder.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -14,34 +15,10 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  CharacterService service = CharacterService();
 
-  // FUTURE
-  late Future<List<Character>> _listaFuture;
+  String newFilter = "";
 
-  late List<Character> _personagens;
-  late List<Character> _personangesFiltrados;
 
-  @override
-  void initState() {
-    super.initState();
-    _listaFuture = _getCharacters();
-  }
-
-  Future<List<Character>> _getCharacters() async {
-    _personagens = await service.getCharacters();
-    _personangesFiltrados = _personagens;
-    return _personagens;
-  }
-
-  _filtroPersonanges(String filtro) {
-    setState(() {
-      _personangesFiltrados = _personagens
-          .where(
-              (item) => item.name.toLowerCase().contains(filtro.toLowerCase()))
-          .toList();
-    });
-  }
 
   @override
   Widget build(BuildContext context) {
@@ -53,45 +30,26 @@ class _MyAppState extends State<MyApp> {
         body: Column(
           children: [
             Padding(
-              padding: const EdgeInsets.all(20),
+              padding: const EdgeInsets.all(8.0),
               child: TextField(
-                onChanged: (value) {
-                  _filtroPersonanges(value);
+          onChanged: (value){
+            setState(() {
+              newFilter = value;
+            });
+            /*var novaLista = lista
+                .where((cadaItem) =>
+                cadaItem.name.toLowerCase().contains(value)
+                    .toList();
+                setState(() {
+                  listaFiltrados = novaLista;
+                });*/
                 },
                 decoration: const InputDecoration(
-                    border: OutlineInputBorder(), labelText: "Filtro"),
+                    border: OutlineInputBorder(), labelText: "Filtro"
+                  ),
               ),
             ),
-            FutureBuilder<List<Character>>(
-                future: _listaFuture,
-                builder: (context, snapshot) {
-                  if (snapshot.hasData) {
-                    return Expanded(
-                      child: Padding(
-                        padding: const EdgeInsets.only(bottom: 50),
-                        child: ListView.separated(
-                            itemBuilder: (context, index) {
-                              return ListTile(
-                                title: Text(_personangesFiltrados[index].name),
-                                leading: Image.network(
-                                    _personangesFiltrados[index].image),
-                              );
-                            },
-                            separatorBuilder: (context, int) {
-                              return Divider();
-                            },
-                            itemCount: _personangesFiltrados.length),
-                      ),
-                    );
-                  }
-
-                  if (snapshot.hasError) {
-                    debugPrint(snapshot.error.toString());
-                    return Text("Error");
-                  }
-
-                  return Center(child: CircularProgressIndicator());
-                }),
+            ListBuilder(filter: newFilter,),
           ],
         ),
       ),

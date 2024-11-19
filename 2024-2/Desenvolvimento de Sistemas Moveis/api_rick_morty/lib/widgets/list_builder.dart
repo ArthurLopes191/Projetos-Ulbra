@@ -14,9 +14,7 @@ class ListBuilder extends StatefulWidget{
 
 class _ListBuilderState extends State<ListBuilder> {
 
-  // FUTURE
   late Future<List<Character>> listaFuture;
-
   late List<Character> lista = List.empty();
   late List<Character> listaFiltrados = List.empty();
 
@@ -29,38 +27,44 @@ class _ListBuilderState extends State<ListBuilder> {
 
   @override
   void didUpdateWidget(covariant ListBuilder oldWidget) {
+    super.didUpdateWidget(oldWidget);
+
     if(oldWidget.filter != widget.filter){
       listaFiltrados = lista
           .where((cadaItem) =>
-          cadaItem.name.toLowerCase().contains(widget.filter))
+          cadaItem.name.toLowerCase().contains(widget.filter.toLowerCase()))
           .toList();
+      // Atualize o estado quando o filtro mudar
+      setState(() {});
     }
   }
-
 
   @override
   Widget build(BuildContext context) {
     return FutureBuilder<List<Character>>(
-        future: listaFuture,
-        builder: (context, snapshot) {
-          if (snapshot.hasData) {
-            if(lista.isEmpty){
-              lista = snapshot.data ?? List.empty();
-
-            }
-            return Expanded(
-              child: ListaCharacters(lista: listaFiltrados),
-            );
+      future: listaFuture,
+      builder: (context, snapshot) {
+        if (snapshot.hasData) {
+          if (lista.isEmpty) {
+            lista = snapshot.data ?? List.empty();
+            listaFiltrados = lista; // Inicialize a lista filtrada com todos os itens
           }
 
-          if (snapshot.hasError) {
-            debugPrint(snapshot.error.toString());
-            return Text("Error");
-          }
+          // Exiba a lista filtrada
+          return Expanded(
+            child: ListaCharacters(lista: listaFiltrados),
+          );
+        }
 
-          return Center(child: CircularProgressIndicator());
-        },
+        if (snapshot.hasError) {
+          debugPrint(snapshot.error.toString());
+          return Text("Error");
+        }
+
+        return Center(child: CircularProgressIndicator());
+      },
     );
   }
 }
+
 

@@ -12,15 +12,15 @@ var cell_width = 0;
 var board_origin = 0;
 
 function initializeBoard() {
-	var initialBoard = [[empty, empty, empty, empty, empty, empty, empty, empty],
+	var initialBoard = [[red, empty, red, empty, red, empty, red, empty],
+						[empty, red, empty, red, empty, red, empty, red],
+						[red, empty, red, empty, red, empty, red, empty],
 						[empty, empty, empty, empty, empty, empty, empty, empty],
-						[empty, empty, empty, empty, empty, empty, red, empty],
 						[empty, empty, empty, empty, empty, empty, empty, empty],
-						[empty, empty, empty, empty, empty, empty, empty, empty],
-						[empty, black, empty, empty, empty, empty, empty, empty],
-						[empty, empty, empty, empty, empty, empty, empty, empty],
-						[empty, empty, empty, empty, empty, empty, empty, empty]
-	];
+						[empty, black, empty, black, empty, black, empty, black],
+						[black, empty, black, empty, black, empty, black, empty],
+						[empty, black, empty, black, empty, black, empty, black]
+					   ];
 
 	var cells = new Array();
 	var pieces = new Array();

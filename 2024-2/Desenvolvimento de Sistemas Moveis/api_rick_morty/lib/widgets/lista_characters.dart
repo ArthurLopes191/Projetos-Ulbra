@@ -13,9 +13,9 @@ class ListaCharacters extends StatelessWidget {
       child: ListView.separated(
           itemBuilder: (context, index) {
             return ListTile(
-              title: Text(lista[index].name),
+              title: Text(lista[index].fullName),
               leading: Image.network(
-                  lista[index].image),
+                  lista[index].imageUrl),
             );
           },
           separatorBuilder: (context, int) {

@@ -32,7 +32,7 @@ class _ListBuilderState extends State<ListBuilder> {
     if(oldWidget.filter != widget.filter){
       listaFiltrados = lista
           .where((cadaItem) =>
-          cadaItem.name.toLowerCase().contains(widget.filter.toLowerCase()))
+          cadaItem.fullName.toLowerCase().contains(widget.filter.toLowerCase()))
           .toList();
       // Atualize o estado quando o filtro mudar
       setState(() {});
